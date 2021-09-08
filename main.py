@@ -10,7 +10,7 @@ screen.bgcolor("black")
 screen.tracer(0)
 screen.title("Kevin's Snake Game")
 
-
+#Make the parts
 snake = Snake()
 food = Food()
 scoreboard = Scoreboard()
